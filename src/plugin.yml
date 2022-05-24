@@ -1,6 +1,6 @@
-name: CoinFlipper
-version: 2.92
-author: gronnmann
+name: SkittleMCCoinFlip
+version: 2.93
+author: VirusDetected, gronnmann
 main: io.github.gronnmann.coinflipper.CoinFlipper
 depend: [Vault]
 softdepend: [ProtocolLib, CombatTagPlus, PvPManager, ChatPerWorld, CombatLogX, PlaceholderAPI]
